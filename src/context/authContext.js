@@ -13,7 +13,7 @@ export const AuthContextProvider = ({ children }) => {
       id: 1,
       name: "Umut Şahinkaya",
       profilePic:
-        "https://media.licdn.com/dms/image/C4D03AQENH7PxMixW8Q/profile-displayphoto-shrink_800_800/0/1659559455846?e=1672876800&v=beta&t=OXRguISjbpJ_KnEpVnkGC-9NzHZN58n0-Hi3pB8x2dI",
+        "https://media.licdn.com/dms/image/D4D03AQELHS3HNXk2NA/profile-displayphoto-shrink_200_200/0/1667559172935?e=1672876800&v=beta&t=FRZnWBYHa57fJF1JqcRKq__Uvhzb1OYHcHOt5NlOdQY",
     });
   };
 

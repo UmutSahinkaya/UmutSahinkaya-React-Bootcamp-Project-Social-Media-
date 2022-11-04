@@ -14,7 +14,7 @@ const Stories = () => {
     },
     {
       id: 2,
-      name: "Umut Şahinkaya",
+      name: "John Doe",
       img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {

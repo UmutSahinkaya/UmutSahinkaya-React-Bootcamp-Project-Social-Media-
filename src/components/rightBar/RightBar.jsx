@@ -9,10 +9,10 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
-              <span> Onur Y.</span>
+              <span>Sema Özgönül</span>
             </div>
             <div className="buttons">
               <button>Follow</button>
@@ -22,10 +22,10 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
-              <span> Onur Y.</span>
+              <span> Sema Özgönül</span>
             </div>
             <div className="buttons">
               <button>Follow</button>
@@ -35,10 +35,10 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
-              <span> Onur Y.</span>
+              <span> Sema Özgönül</span>
             </div>
             <div className="buttons">
               <button>Follow</button>
@@ -51,11 +51,11 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
               <p>
-                <span> Onur Y.</span> changed their cover picture
+                <span> Sema Özgönül</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -63,11 +63,11 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
               <p>
-                <span> Onur Y.</span> changed their cover picture
+                <span> Sema Özgönül</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -75,11 +75,11 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
               <p>
-                <span> Onur Y.</span> changed their cover picture
+                <span> Sema Özgönül</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -90,51 +90,51 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
               <div className="online" />
-              <span> Onur Y.</span>
+              <span> Sema Özgönül</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
               <div className="online" />
-              <span> Onur Y.</span>
+              <span> Sema Özgönül</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
               <div className="online" />
-              <span> Onur Y.</span>
+              <span> Sema Özgönül</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
               <div className="online" />
-              <span> Onur Y.</span>
+              <span> Sema Özgönül</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C4D03AQH3xNVBrfl7eQ/profile-displayphoto-shrink_200_200/0/1650909828750?e=1672876800&v=beta&t=aEmWF8SOjQxb8lNkTxSx1J78Pm8kShWZbUERsBdV72U"
+                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
               <div className="online" />
-              <span> Onur Y.</span>
+              <span> Sema Özgönül</span>
             </div>
           </div>
           

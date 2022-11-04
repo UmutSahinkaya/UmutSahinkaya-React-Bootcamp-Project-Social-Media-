@@ -16,6 +16,7 @@ import "./style.scss"
 import { useContext } from "react";
 import { DarkModeContext } from "./context/darkModeContext";
 import { AuthContext } from "./context/authContext";
+
 function App() {
   const {currentUser} = useContext(AuthContext);
 
@@ -35,12 +36,14 @@ function App() {
       </div>
     );
   };
+
   const ProtectedRoute = ({ children }) => {
     if (!currentUser) {
       return <Navigate to="./login" />;
     }
     return children;
   };
+  
   const router = createBrowserRouter([
     {
       path: "/",

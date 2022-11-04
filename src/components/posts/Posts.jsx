@@ -8,7 +8,7 @@ const Posts = () => {
       name: "Umut Şahinkaya",
       userId: 1,
       profilePic:
-        "https://media.licdn.com/dms/image/C4D03AQENH7PxMixW8Q/profile-displayphoto-shrink_100_100/0/1659559455846?e=1672876800&v=beta&t=aw_sn6YWVL1yztge27sUq9697rUyaR_a03wJZuX1ST0",
+        "https://media.licdn.com/dms/image/D4D03AQELHS3HNXk2NA/profile-displayphoto-shrink_200_200/0/1667559172935?e=1672876800&v=beta&t=FRZnWBYHa57fJF1JqcRKq__Uvhzb1OYHcHOt5NlOdQY",
       desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae nisi natus cum ipsum aliquid perspiciatis impedit fugiat veniam quia expedita?",
       img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
@@ -17,7 +17,7 @@ const Posts = () => {
       name: "Umut Şahinkaya",
       userId: 2,
       profilePic:
-        "https://media.licdn.com/dms/image/C4D03AQENH7PxMixW8Q/profile-displayphoto-shrink_100_100/0/1659559455846?e=1672876800&v=beta&t=aw_sn6YWVL1yztge27sUq9697rUyaR_a03wJZuX1ST0",
+        "https://media.licdn.com/dms/image/D4D03AQELHS3HNXk2NA/profile-displayphoto-shrink_200_200/0/1667559172935?e=1672876800&v=beta&t=FRZnWBYHa57fJF1JqcRKq__Uvhzb1OYHcHOt5NlOdQY",
       desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem voluptatibus adipisci necessitatibus recusandae exercitationem, praesentium minima a repudiandae error nihil cum fugit, nesciunt expedita quos officiis! Culpa, architecto laboriosam earum nobis possimus exercitationem tempore ad. Cumque quas natus commodi, neque beatae ducimus rem, quaerat fugit provident perspiciatis dolorum impedit debitis eveniet fuga quidem vitae vero consequuntur cum laboriosam laudantium aspernatur consequatur reiciendis. Maxime, odit sint expedita aliquid dicta facere earum quam molestiae voluptate sapiente officia harum numquam. Fuga hic ad autem suscipit ratione rem sed voluptatem exercitationem sapiente ut architecto non et dolorum similique labore magnam quibusdam odio, quia quos?",
     },
   ];

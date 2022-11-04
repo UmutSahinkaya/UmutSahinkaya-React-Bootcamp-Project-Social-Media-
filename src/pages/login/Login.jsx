@@ -4,12 +4,11 @@ import { AuthContext } from "../../context/authContext";
 import "./login.scss";
 
 const Login = () => {
-
   const { login } = useContext(AuthContext);
 
-  const handleLogin=()=>{
+  const handleLogin = () => {
     login();
-  }
+  };
 
   return (
     <div className="login">
@@ -17,16 +16,14 @@ const Login = () => {
         <div className="left">
           <h1>Hello World.</h1>
           <p>
-       <div></div>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis
             fugiat laboriosam velit earum ad cupiditate adipisci, amet possimus
             praesentium delectus.
           </p>
           <span>Don't you have an account?</span>
           <Link to="/register">
-          <button>Register</button>
+            <button>Register</button>
           </Link>
-          
         </div>
         <div className="right">
           <h1>Login</h1>
