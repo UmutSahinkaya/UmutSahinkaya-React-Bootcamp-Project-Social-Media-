@@ -9,23 +9,23 @@ const Stories = () => {
   const stories = [
     {
       id: 1,
-      name: "Uğur Erdal",
-      img: "https://media.licdn.com/dms/image/C4E03AQGlGk6y_BXWBQ/profile-displayphoto-shrink_200_200/0/1582197252670?e=1672876800&v=beta&t=Gkwf93pjrfZQ8BbuNz3okEbEZSBpHKFvQMGpTX777CE",
+      name: "Umut Şahinkaya",
+      img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 2,
-      name: "Uğur Erdal",
-      img: "https://media.licdn.com/dms/image/C4E03AQGlGk6y_BXWBQ/profile-displayphoto-shrink_200_200/0/1582197252670?e=1672876800&v=beta&t=Gkwf93pjrfZQ8BbuNz3okEbEZSBpHKFvQMGpTX777CE",
+      name: "Umut Şahinkaya",
+      img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 3,
-      name: "Uğur Erdal",
-      img: "https://media.licdn.com/dms/image/C4E03AQGlGk6y_BXWBQ/profile-displayphoto-shrink_200_200/0/1582197252670?e=1672876800&v=beta&t=Gkwf93pjrfZQ8BbuNz3okEbEZSBpHKFvQMGpTX777CE",
+      name: "Umut Şahinkaya",
+      img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 4,
-      name: "Uğur Erdal",
-      img: "https://media.licdn.com/dms/image/C4E03AQGlGk6y_BXWBQ/profile-displayphoto-shrink_200_200/0/1582197252670?e=1672876800&v=beta&t=Gkwf93pjrfZQ8BbuNz3okEbEZSBpHKFvQMGpTX777CE",
+      name: "Umut Şahinkaya",
+      img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
   ];
 
@@ -37,7 +37,7 @@ const Stories = () => {
         <button>+</button>
       </div>
       {stories.map((story) => (
-        <div className="story">
+        <div className="story" key={story.id}>
           <img src={story.img}></img>
           <span>{story.name}</span>
         </div>
