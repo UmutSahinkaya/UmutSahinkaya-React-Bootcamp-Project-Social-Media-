@@ -12,7 +12,7 @@ const RightBar = () => {
                 src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
-              <span>Sema Özgönül</span>
+              <span>Sema O</span>
             </div>
             <div className="buttons">
               <button>Follow</button>
@@ -25,7 +25,7 @@ const RightBar = () => {
                 src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
-              <span> Sema Özgönül</span>
+              <span> Sema O</span>
             </div>
             <div className="buttons">
               <button>Follow</button>
@@ -38,7 +38,7 @@ const RightBar = () => {
                 src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
                 alt=""
               />
-              <span> Sema Özgönül</span>
+              <span> Sema O</span>
             </div>
             <div className="buttons">
               <button>Follow</button>
@@ -55,7 +55,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span> Sema Özgönül</span> changed their cover picture
+                <span> Sema O</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -67,7 +67,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span> Sema Özgönül</span> changed their cover picture
+                <span> Sema O</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -79,7 +79,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span> Sema Özgönül</span> changed their cover picture
+                <span> Sema O</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -94,7 +94,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span> Sema Özgönül</span>
+              <span> Sema O</span>
             </div>
           </div>
           <div className="user">
@@ -104,7 +104,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span> Sema Özgönül</span>
+              <span> Sema O</span>
             </div>
           </div>
           <div className="user">
@@ -114,7 +114,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span> Sema Özgönül</span>
+              <span> Sema O</span>
             </div>
           </div>
           <div className="user">
@@ -124,7 +124,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span> Sema Özgönül</span>
+              <span> Sema O</span>
             </div>
           </div>
           <div className="user">
@@ -134,7 +134,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span> Sema Özgönül</span>
+              <span> Sema O</span>
             </div>
           </div>
           

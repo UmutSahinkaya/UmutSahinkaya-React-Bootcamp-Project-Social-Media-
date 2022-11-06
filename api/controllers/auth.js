@@ -43,17 +43,15 @@ export const login = (req, res) => {
       req.body.password,
       data[0].password
     );
-
     if (!checkPassword)
       return res.status(400).json("Wrong password or username!");
-
     const token = jwt.sign({ id: data[0].id }, "secretkey");
 
     const { password, ...others } = data[0];
 
     res
       .cookie("accessToken", token, {
-        httpOnly: true,
+        httpOnly: true
       })
       .status(200)
       .json(others);
@@ -61,8 +59,11 @@ export const login = (req, res) => {
 };
 
 export const logout = (req, res) => {
-  res.clearCookie("accessToken",{
-    secure:true,
-    sameSite:"none"
-  }).status(200).json("User has been logged out.")
+  res
+    .clearCookie("accessToken", {
+      secure: true,
+      sameSite: "none",
+    })
+    .status(200)
+    .json("User has been logged out.");
 };

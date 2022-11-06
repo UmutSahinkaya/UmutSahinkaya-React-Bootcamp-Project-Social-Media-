@@ -1,5 +1,5 @@
 import { createContext, useEffect, useState } from "react";
-
+import axios from "axios";
 export const AuthContext = createContext();
 
 export const AuthContextProvider = ({ children }) => {
@@ -7,14 +7,12 @@ export const AuthContextProvider = ({ children }) => {
     JSON.parse(localStorage.getItem("user")) || null
   );
 
-  const login = () => {
-    // TODO API
-    setCurrentUser({
-      id: 1,
-      name: "Umut Şahinkaya",
-      profilePic:
-        "https://media.licdn.com/dms/image/D4D03AQELHS3HNXk2NA/profile-displayphoto-shrink_200_200/0/1667559172935?e=1672876800&v=beta&t=FRZnWBYHa57fJF1JqcRKq__Uvhzb1OYHcHOt5NlOdQY",
+  const login = async (inputs) => {
+    const res = axios.Post("http://localhost:8800/api/auth/login", inputs,{
+      withCredentials:true
     });
+
+    setCurrentUser(res.data)
   };
 
   useEffect(() => {
