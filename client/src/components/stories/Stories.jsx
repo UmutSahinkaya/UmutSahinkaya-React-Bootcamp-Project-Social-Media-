@@ -1,47 +1,37 @@
 import { useContext } from "react";
 import "./stories.scss";
 import { AuthContext } from "../../context/authContext";
+import { useQuery } from "@tanstack/react-query";
+import { makeRequest } from "../../axios";
 
 const Stories = () => {
+  const { currentUser } = useContext(AuthContext);
 
-  const {currentUser}=useContext(AuthContext);
+  const { isLoading, error, data } = useQuery(["stories"], () =>
+    makeRequest.get("/stories").then((res) => {
+      return res.data;
+    })
+  );
 
-  const stories = [
-    {
-      id: 1,
-      name: "Umut Şahinkaya",
-      img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    },
-    {
-      id: 2,
-      name: "John Doe",
-      img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    },
-    {
-      id: 3,
-      name: "Umut Şahinkaya",
-      img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    },
-    {
-      id: 4,
-      name: "Umut Şahinkaya",
-      img: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    },
-  ];
+  //TODO Add story using react-query mutations and use upload function.
 
   return (
     <div className="stories">
       <div className="story">
-        <img src={currentUser.profilePic}></img>
+        <img src={"/upload/" + currentUser.profilePic} alt="" />
         <span>{currentUser.name}</span>
         <button>+</button>
       </div>
-      {stories.map((story) => (
-        <div className="story" key={story.id}>
-          <img src={story.img}></img>
-          <span>{story.name}</span>
-        </div>
-      ))}
+      {error
+        ? "Something went wrong"
+        : isLoading
+        ? "loading"
+        : data.map((story) => (
+            <div className="story" key={story.id}>
+              <img src={story.img} alt="" />
+              <span>{story.name}</span>
+            </div>
+          ))}
     </div>
   );
 };

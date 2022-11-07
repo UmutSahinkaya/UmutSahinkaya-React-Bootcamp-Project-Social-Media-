@@ -9,40 +9,27 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
-              <span>Sema O</span>
+              <span>Jane Doe</span>
             </div>
             <div className="buttons">
-              <button>Follow</button>
-              <button>Dismiss</button>
+              <button>follow</button>
+              <button>dismiss</button>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
-              <span> Sema O</span>
+              <span>Jane Doe</span>
             </div>
             <div className="buttons">
-              <button>Follow</button>
-              <button>Dismiss</button>
-            </div>
-          </div>
-          <div className="user">
-            <div className="userInfo">
-              <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
-                alt=""
-              />
-              <span> Sema O</span>
-            </div>
-            <div className="buttons">
-              <button>Follow</button>
-              <button>Dismiss</button>
+              <button>follow</button>
+              <button>dismiss</button>
             </div>
           </div>
         </div>
@@ -51,11 +38,11 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
               <p>
-                <span> Sema O</span> changed their cover picture
+                <span>Jane Doe</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -63,11 +50,11 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
               <p>
-                <span> Sema O</span> changed their cover picture
+                <span>Jane Doe</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -75,11 +62,23 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
               <p>
-                <span> Sema O</span> changed their cover picture
+                <span>Jane Doe</span> changed their cover picture
+              </p>
+            </div>
+            <span>1 min ago</span>
+          </div>
+          <div className="user">
+            <div className="userInfo">
+              <img
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                alt=""
+              />
+              <p>
+                <span>Jane Doe</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -90,54 +89,113 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
               <div className="online" />
-              <span> Sema O</span>
+              <span>Jane Doe</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
               <div className="online" />
-              <span> Sema O</span>
+              <span>Jane Doe</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
               <div className="online" />
-              <span> Sema O</span>
+              <span>Jane Doe</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
               <div className="online" />
-              <span> Sema O</span>
+              <span>Jane Doe</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://media.licdn.com/dms/image/C5603AQGpcOzchYAg2g/profile-displayphoto-shrink_200_200/0/1602139271892?e=1672876800&v=beta&t=ug9CV47QwOhnQ6iXmkvO7kCq4g9X5U4DGf2rukXFn08"
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
               <div className="online" />
-              <span> Sema O</span>
+              <span>Jane Doe</span>
             </div>
           </div>
-          
+          <div className="user">
+            <div className="userInfo">
+              <img
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                alt=""
+              />
+              <div className="online" />
+              <span>Jane Doe</span>
+            </div>
+          </div>
+          <div className="user">
+            <div className="userInfo">
+              <img
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                alt=""
+              />
+              <div className="online" />
+              <span>Jane Doe</span>
+            </div>
+          </div>
+          <div className="user">
+            <div className="userInfo">
+              <img
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                alt=""
+              />
+              <div className="online" />
+              <span>Jane Doe</span>
+            </div>
+          </div>
+          <div className="user">
+            <div className="userInfo">
+              <img
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                alt=""
+              />
+              <div className="online" />
+              <span>Jane Doe</span>
+            </div>
+          </div>
+          <div className="user">
+            <div className="userInfo">
+              <img
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                alt=""
+              />
+              <div className="online" />
+              <span>Jane Doe</span>
+            </div>
+          </div>
+          <div className="user">
+            <div className="userInfo">
+              <img
+                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                alt=""
+              />
+              <div className="online" />
+              <span>Jane Doe</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
